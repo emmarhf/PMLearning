@@ -183,7 +183,7 @@ header {
       left: 0;
       right: 0;
       bottom: 0;
-      background-image: url('assets/images/project-management-image.jpg'); /* Imagen como fondo en mobile */
+      background-image: url('../assets/images/project-management-image.jpg'); /* Imagen como fondo en mobile */
       background-size: cover;
       background-position: center;
       z-index: 0;
